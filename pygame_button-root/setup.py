@@ -9,7 +9,7 @@ setup(
   version='1.0.0',
   author='NosOK',
   author_email='d877231@gmail.com',
-  description='Buttons in pygame',
+  description='https://github.com/NosOK-develop/buttons-pygame',
   long_description=readme(),
   long_description_content_type='text/markdown',
   url='home_link',
@@ -25,4 +25,5 @@ setup(
     'Documentation': 'link'
   },
   python_requires='>=3.7'
+
 )
